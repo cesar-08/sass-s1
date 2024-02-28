@@ -1,0 +1,13 @@
+
+$color-texto: red;
+$tamano-central: 30px;
+$tamano-text: 15px;
+$bg-header: gray;
+
+
+.header {
+    background: $bg-header;
+    text-align: center;
+    font-size: $tamano-text;
+    padding: 20px;
+}

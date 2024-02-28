@@ -1,0 +1,38 @@
+.header {
+  background: gray;
+  text-align: center;
+  font-size: 15px;
+  padding: 20px;
+}
+
+* *::before *::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #242424;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: red;
+  font-size: 30px;
+}
+
+.text {
+  color: white;
+}
+.text p {
+  color: yellow;
+}
+
+.text {
+  color: white;
+}
+.text p {
+  color: orange;
+  font-size: 15px;
+}/*# sourceMappingURL=style.css.map */
